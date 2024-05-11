@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pocket-Notes/static/css/main.7c75c866.css",
+    "main.js": "/Pocket-Notes/static/js/main.2bdc8292.js",
+    "static/media/image-removebg-preview 1.png": "/Pocket-Notes/static/media/image-removebg-preview 1.d8c7b9bc0a963cbce718.png",
+    "index.html": "/Pocket-Notes/index.html",
+    "main.7c75c866.css.map": "/Pocket-Notes/static/css/main.7c75c866.css.map",
+    "main.2bdc8292.js.map": "/Pocket-Notes/static/js/main.2bdc8292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c75c866.css",
+    "static/js/main.2bdc8292.js"
+  ]
+}
